@@ -9,6 +9,6 @@ I am currently learning and working on independent projects on GitHub, which may
 
 | Jupyter Notebook | Python | SQL | PowerBI | Excel |
 |-------------------|--------|-----|---------|-------|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="130"> | <img src="https://img.icons8.com/color/80/000000/python.png" alt="Python" width="130"> |  <img src="https://img.icons8.com/ios-filled/80/000000/database.png" alt="SQL" width="130">     | <img src="https://img.icons8.com/color/80/000000/power-bi.png" alt="Power BI" width="48"> |  <img src="https://img.icons8.com/color/80/000000/microsoft-excel-2019.png" alt="Excel" width="130"> |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="130"> | <img src="https://img.icons8.com/color/80/000000/python.png" alt="Python" width="130"> |  <img src="https://img.icons8.com/ios-filled/80/000000/database.png" alt="SQL" width="130">     | <img src="https://img.icons8.com/color/80/000000/power-bi.png" alt="Power BI" width="130"> |  <img src="https://img.icons8.com/color/80/000000/microsoft-excel-2019.png" alt="Excel" width="130"> |
 
 
