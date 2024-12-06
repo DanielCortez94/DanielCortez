@@ -5,7 +5,7 @@ I am currently learning and working on independent projects on GitHub, which may
 
 - 📂 **[Portafolio](https://github.com/DanielCortez94?tab=repositories)**
 
-##Main Tools
+## Main Tools
 
 | Jupyter Notebook | Python | SQL | PowerBI | Excel |
 |-------------------|--------|-----|---------|-------|
