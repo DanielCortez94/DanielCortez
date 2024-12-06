@@ -11,7 +11,4 @@ Actualmente me encuentro aprendiendo y trabajando en proyectos independientes en
 |-------------------|--------|-----|---------|-------|
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="48"> | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![SQL](https://img.icons8.com/ios-filled/50/000000/database.png) | ![PowerBI](https://img.icons8.com/color/48/000000/power-bi.png) | ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) |
 
-## Otras herramientas
-| Unity | Linux |
-|-------|-------|
-| ![Unity](https://img.icons8.com/ios-filled/50/000000/unity.png) | ![Linux](https://img.icons8.com/color/48/000000/linux.png) |
+
