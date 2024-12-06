@@ -4,7 +4,7 @@ Analista de Datos Junior y Lic. en Administracion y Negocios Internacionales. So
 
 Actualmente me encuentro aprendiendo y trabajando en proyectos independientes en GitHub, que puedan ser útiles para otros usuarios y para mí.
 
-- 📂 **[Portafolio]([URL_DE_TU_PORTAFOLIO](https://github.com/DanielCortez94?tab=repositories))**
+- 📂 **[Portafolio]((https://github.com/DanielCortez94?tab=repositories))**
 
 ## Principales herramientas
 | Jupyter Notebook | Python | SQL | PowerBI | Excel |
