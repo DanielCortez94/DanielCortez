@@ -1,4 +1,3 @@
-# DanielCortez
 # Un poco de mí:
 Analista de Datos Junior y Lic. en Administracion y Negocios Internacionales. Soy un apasionado por las tecnologías y los datos, siempre me encuentro experimentando en diferentes herramientas e intento expandir mi conocimiento para aplicarlos en problemas reales.
 
