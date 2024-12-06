@@ -5,8 +5,8 @@ I am currently learning and working on independent projects on GitHub, which may
 
 - 📂 **[Portafolio](https://github.com/DanielCortez94?tab=repositories)**
 
-| Tools        | Icon |
-|--------------------|-------|
-| Jupyter Notebook   | <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="64"> |  Python             | <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="64"> |  SQL                | <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL" width="64"> |  Power BI           | <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="64"> |  Excel              | <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="64"> |
+| Jupyter Notebook | Python | SQL | PowerBI | Excel |
+|-------------------|--------|-----|---------|-------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="64"> | <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="64"> |  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL" width="64">        | <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="64"> |  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="64"> |
 
 
